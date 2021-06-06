@@ -1,4 +1,4 @@
-### Hi there 👋
+### Why did the developer become so poor?
 
 <!--
 **MakeRafa/MakeRafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
