@@ -1,4 +1,4 @@
-<h1 align="center">My name is Vazquez, Rafa Vazquez</h1>
+<h1 align="center">My name is Rafa Vazquez</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=makerafa&label=Profile%20views&color=0e75b6&style=flat" alt="makerafa" /> </p> -->
 
 
